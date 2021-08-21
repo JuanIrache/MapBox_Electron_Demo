@@ -11,8 +11,7 @@
   "author": "John M. Larkin",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^5.0.6",
+    "electron": "^13.2.1",
     "electron-rebuild": "^1.8.5"
-  },
-  "dependencies": {}
+  }
 }
